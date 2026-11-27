@@ -32,12 +32,7 @@ The notebook fills missing review ratings using the median rating within each pr
 ├── Customer_behavior_analysis.sql
 ├── Customer_behavior_analysis.ipynb
 ├── README.md
-├── images/
-│   ├── revenue_by_gender.png
-│   ├── revenue_by_age_group.png
-│   ├── top_products_rating.png
-│   ├── average_spend_subscription.png
-│   └── power_bi_dashboard.png   # Add your exported dashboard screenshot
+├── Power_BI_Dashboard
 └── sql_outputs/
     ├── query_01_output.csv
     ├── ...
@@ -59,25 +54,12 @@ The SQL analysis addresses these business questions:
 9. Subscription status among repeat buyers with more than five previous purchases.
 10. Revenue contribution by age group.
 
-## Visualizations
-
-### Revenue by Gender
-![Revenue by Gender](images/revenue_by_gender.png)
-
-### Revenue by Age Group
-![Revenue by Age Group](images/revenue_by_age_group.png)
-
-### Top Products by Average Rating
-![Top Products by Average Rating](images/top_products_rating.png)
-
-### Average Spend by Subscription Status
-![Average Spend by Subscription Status](images/average_spend_subscription.png)
-
 ## Power BI Dashboard
 
 > **Dashboard screenshot:** Export a screenshot from Power BI Desktop and save it as `images/power_bi_dashboard.png` so it appears here.
 
-![Power BI Dashboard](images/power_bi_dashboard.png)
+![Power BI Dashboard](<img width="729" height="541" alt="image" src="https://github.com/user-attachments/assets/843e07b1-de01-4826-a37b-550960bfaf40" />
+)
 
 The interactive Power BI report is also included as [`customer_behavior.pbix`](customer_behavior.pbix). Open it using Power BI Desktop to explore the report.
 
