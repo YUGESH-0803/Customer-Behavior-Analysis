@@ -75,9 +75,9 @@ The SQL analysis addresses these business questions:
 
 ## Power BI Dashboard
 
-> **Dashboard screenshot:** Export a screenshot from Power BI Desktop and save it as `images/power_bi_dashboard.png` so it appears here.
-
-![Power BI Dashboard](images/power_bi_dashboard.png)
+> **Dashboard screenshot:
+![Power BI Dashboard](<img width="729" height="541" alt="image" src="https://github.com/user-attachments/assets/43f224bb-6ea9-42a9-a315-c6ce795b8105" />
+)
 
 The interactive Power BI report is also included as [`customer_behavior.pbix`](customer_behavior.pbix). Open it using Power BI Desktop to explore the report.
 
