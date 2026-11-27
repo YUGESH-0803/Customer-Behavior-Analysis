@@ -37,7 +37,7 @@ The notebook fills missing review ratings using the median rating within each pr
 │   ├── revenue_by_age_group.png
 │   ├── top_products_rating.png
 │   ├── average_spend_subscription.png
-│   └── power_bi_dashboard.png   # Add your exported dashboard screenshot
+│   └── power_bi_dashboard.png   
 └── sql_outputs/
     ├── query_01_output.csv
     ├── ...
